@@ -1,2 +1,2 @@
 # webmt
-First Website for school
+first website for school
